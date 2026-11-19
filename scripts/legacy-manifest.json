@@ -1,0 +1,10 @@
+{
+  "source_commit": "0888d54",
+  "purpose": "Verify original learning scripts remain unchanged; hashes are not execution validation.",
+  "files": {
+    "scripts/init_database.sql": "ec9122da81faaa81a5deefdc26aa8d6a29272b910aaf7406e8be949a5b02527f",
+    "scripts/bronze/ddl_data_defination_lang_bronze": "ca04fc577606399c9f174b67b9c09f1c08c771662361607646b7f1b3aec4b893",
+    "scripts/Silver layer/ddl_silver": "eac56e54eda7bbd71201c10f65e14b83c8176bb0a91a87ef94590324d8316f52",
+    "scripts/Silver layer/Stored Procedure": "4eb9ac538dd62b06f1de6cc2bae3af3c56ccf4512b439d9b3649872998918180"
+  }
+}
