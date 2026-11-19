@@ -1,0 +1,12 @@
+# Local databases, exports and private configuration
+.env
+.env.*
+*.bak
+*.mdf
+*.ldf
+*.bcp
+*.log
+__pycache__/
+private/
+local-data/
+.vscode/
